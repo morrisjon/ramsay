@@ -52,6 +52,12 @@
         <nuxt />
       </v-container>
     </v-content>
+    <v-footer class="d-flex justify-space-between px-10 py-6" dark>
+      <div>
+        <h4>Phone: 224-515-8051 | Email: info@ramsayinnovations.com</h4>
+      </div>
+      <div>&copy; 2020 Ramsay Innovations LLC</div>
+    </v-footer>
   </v-app>
 </template>
 
